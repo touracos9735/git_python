@@ -1,0 +1,2 @@
+*.docx
+a.txt
